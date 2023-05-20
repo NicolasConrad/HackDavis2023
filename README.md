@@ -1,2 +1,4 @@
-# HackDavis2023
-Repository for HackDavis2023 Project
+# README for HackDavis2023 
+
+Author: Nicolas Conrad
+
